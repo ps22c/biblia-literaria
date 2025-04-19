@@ -1,9 +1,8 @@
-# Bíblia Literária
+# Livro de Rute - Bíblia Literária
 
-Este repositório contém a adaptação literária de diversos livros da 
-Bíblia, com o objetivo de tornar a leitura mais acessível, envolvente 
-e inspiradora, preservando a essência e a integridade dos textos 
-originais.
+Este repositório contém a adaptação literária do **Livro de Rute** da 
+Bíblia, com base na **Tradução Brasileira da Bíblia (TB)**, versão 
+publicada em 1917 e atualmente em domínio público.
 
 ## Descrição
 
@@ -12,13 +11,9 @@ Versão em domínio público
 
 Adaptação literária e composição por **Paulo Sergio**
 
-Este trabalho é uma adaptação literária da Bíblia, que visa tornar o 
-conteúdo mais acessível ao público contemporâneo, mantendo a 
-fidelidade ao texto original da **Tradução Brasileira da Bíblia 
-(TB)**, publicada em 1917 e atualmente em domínio público.
-
-Cada livro é tratado de forma a ser mais envolvente, ao mesmo tempo em 
-que busca respeitar a integridade e a mensagem original.
+Este trabalho foi elaborado com o propósito de tornar a leitura do 
+Livro de Rute mais acessível, envolvente e inspiradora, preservando a 
+essência e a integridade do texto original.
 
 Fonte original: *Tradução Brasileira da Bíblia*, publicada em 1917, 
 atualmente em domínio público.
