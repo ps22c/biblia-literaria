@@ -1,6 +1,6 @@
 # Bíblia Literária
 
-Este repositório contém a adaptação literária de diversos livros da 
+Este repositório contém(futuramente) a adaptação literária de diversos livros da 
 Bíblia, com o objetivo de tornar a leitura mais acessível, envolvente 
 e inspiradora, preservando a essência e a integridade dos textos 
 originais.
